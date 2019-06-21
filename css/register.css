@@ -1,0 +1,11 @@
+form ul li{
+  list-style: none;
+}
+form{
+  width: 500px;
+  background-color: grey;
+  margin: auto;
+}
+h1{
+  background-image: url('../img/logo.jpg');
+}

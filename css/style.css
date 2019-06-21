@@ -1,0 +1,19 @@
+.wrap{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    background: green;
+}
+.content, .contact_sidebar{
+    height: 500px;
+}
+.content{
+    width: 70%;
+    background: yellow;
+    float: left;
+}
+.contact_sidebar{
+    width: 30%;
+    background: blue;
+    float: left;
+}
